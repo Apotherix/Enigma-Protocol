@@ -64,6 +64,17 @@
       "system": "dnd5e"
     },
     {
+      "name": "enigma-magic",
+      "label": "Enigma Magic",
+      "path": "packs/enigma-magic",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
       "name": "enigma-items",
       "label": "Enigma Items",
       "path": "packs/enigma-items",
