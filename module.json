@@ -1,7 +1,7 @@
 {
   "id": "enigma-protcol",
   "title": "Enigma-Protcol",
-  "version": "0.1",
+  "version": "0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
