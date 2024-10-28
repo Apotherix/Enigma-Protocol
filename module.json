@@ -18,6 +18,8 @@
 
   "requires": [
     {
+      "id": "enigma-protcol",
+      "type": "module",
       "manifest": "https://github.com/Apotherix/Enigma-Protocol/archive/refs/tags/release.zip"
     }
   ],
