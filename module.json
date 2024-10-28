@@ -16,7 +16,7 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Apotherix/Enigma-Protocol/refs/heads/master/module.json",
-  "download": "https://github.com/Apotherix/Enigma-Protocol/archive/refs/tags/release.zip",
+  "download": "https://github.com/Apotherix/Enigma-Protocol/archive/refs/tags/v0.3.zip",
 
   "packs": [
     {
