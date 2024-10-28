@@ -1,0 +1,141 @@
+{
+  "id": "enigma-protcol",
+  "title": "Enigma-Protcol",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Apotherix",
+      "email": "vymuul@tuta.io",
+      "discord": "Apotherix",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "enigma-actors",
+      "label": "Enigma Actors",
+      "path": "packs/enigma-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-adventure",
+      "label": "Enigma Adventure",
+      "path": "packs/enigma-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-cards",
+      "label": "Enigma Cards",
+      "path": "packs/enigma-cards",
+      "type": "Cards",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-classes",
+      "label": "Enigma Classes",
+      "path": "packs/enigma-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-items",
+      "label": "Enigma Items",
+      "path": "packs/enigma-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-journals",
+      "label": "Enigma Journals",
+      "path": "packs/enigma-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-macros",
+      "label": "Enigma Macros",
+      "path": "packs/enigma-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-music",
+      "label": "Enigma Music",
+      "path": "packs/enigma-music",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-tables",
+      "label": "Enigma Tables",
+      "path": "packs/enigma-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-scenes-and-maps",
+      "label": "Enigma Scenes & Maps",
+      "path": "packs/enigma-scenes-and-maps",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "enigma-features",
+      "label": "Enigma Features",
+      "path": "packs/enigma-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
