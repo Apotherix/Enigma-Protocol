@@ -15,15 +15,8 @@
       "flags": {}
     }
   ],
-
-  "requires": [
-    {
-      "id": "enigma-protcol",
-      "type": "module",
-      "manifest": "https://raw.githubusercontent.com/Apotherix/Enigma-Protocol/refs/heads/master/module.json",
-      "download": "https://github.com/Apotherix/Enigma-Protocol/raw/refs/heads/master/Enigma-Protocol-release.zip"
-    }
-  ],
+  "manifest": "https://raw.githubusercontent.com/Apotherix/Enigma-Protocol/refs/heads/master/module.json",
+  "download": "https://github.com/Apotherix/Enigma-Protocol/raw/refs/heads/master/Enigma-Protocol-release.zip",
 
   "packs": [
     {
