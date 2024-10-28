@@ -15,6 +15,13 @@
       "flags": {}
     }
   ],
+
+  "requires": [
+    {
+      "manifest": "https://github.com/Apotherix/Enigma-Protocol/archive/refs/tags/release.zip"
+    }
+  ],
+
   "packs": [
     {
       "name": "enigma-actors",
