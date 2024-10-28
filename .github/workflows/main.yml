@@ -28,7 +28,7 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './module.json,./my-module.zip'
+        artifacts: './module.json,./enigma-protocol.zip'
         tag: ${{ steps.get-version.outputs.version }}
 
     # Update the 'latest' release
