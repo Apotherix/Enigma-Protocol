@@ -1,4 +1,5 @@
-name: my-module CI
+name: Enigma Protocol CI
+run-name: ${{ github.actor }} Enigma protocol update
 
 on: [push]
 
@@ -6,10 +7,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     # create a zip file with all files required by the module to add to the release
-    - run: zip -r ./my-module.zip module.json my-module.js lang/ templates/
+    - run: zip -r ./enigma-protocol.zip module.json enigma-protocol.js lang/ templates/
 
     # Get the version from 'module.json'
     - name: Get Version
