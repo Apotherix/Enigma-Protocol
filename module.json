@@ -1,11 +1,11 @@
 {
   "id": "enigma-protcol",
   "title": "Enigma-Protcol",
-  "version": "0.2",
+  "version": "0.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
-    "maximum": "12"
+    "maximum": ""
   },
   "authors": [
     {
