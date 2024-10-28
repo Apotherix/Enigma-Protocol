@@ -21,7 +21,7 @@
       "id": "enigma-protcol",
       "type": "module",
       "manifest": "https://raw.githubusercontent.com/Apotherix/Enigma-Protocol/refs/heads/master/module.json",
-      "download": "https://github.com/Apotherix/Enigma-Protocol/archive/refs/tags/release.zip"
+      "download": "https://github.com/Apotherix/Enigma-Protocol/raw/refs/heads/master/Enigma-Protocol-release.zip"
     }
   ],
 
