@@ -1,10 +1,7 @@
 name: Enigma Protocol CI
 run-name: ${{ github.actor }} Enigma protocol update
 
-on:
-    push:
-        tags:
-            - 'release'
+on: [push] 
 
 jobs:
   build:
