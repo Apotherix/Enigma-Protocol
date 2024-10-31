@@ -133,7 +133,7 @@
       "name": "enigma-scenes-and-maps",
       "label": "Enigma Scenes & Maps",
       "path": "packs/enigma-scenes-and-maps",
-      "type": "RollTable",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
